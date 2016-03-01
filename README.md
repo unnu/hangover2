@@ -53,3 +53,5 @@ The hangover repositories are stored in a `.hangover` directory. You can create 
             stylesheets
 
 In this example all changes in the `homepage` directory got to the `.hangover` repository hanging directly under `projects`. All changes in `customer_website` and it's subdirectories get tracked in it's own repository.
+
+TEST
